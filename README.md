@@ -35,6 +35,12 @@ Spelet konstruerades för min elvaåring som behövde öva på multiplikationsta
 | ![Startvy](https://drive.google.com/uc?export=view&id=1rQ_6Cq61jRMiX_dE-dRHB4zvGjoQbtus) | ![Träningsvy](https://drive.google.com/uc?export=view&id=1DPuYi1IRH2UaN2Z-C4wK10GPm4fNzAy-) | ![Resultatvy](https://drive.google.com/uc?export=view&id=1yuUlu-WcNQWBAZOpRpVyZ_CtLvVE2N0A) |
 
 
+# Sparkz
+**App för gym och badanläggningar**
+
+Under min LIA-period fick jag möjlighet att arbeta på ett skarpt projekt under min tid på Odd Hill.
+
+**Sparkz** är en administrations- och bokningsplattform som Odd Hill utvecklat under ett par år för badhus och gym och liknande. Jag fick möjlighet att bygga appen som kunderna ska använda för att kunna boka gruppaktiviteter m.m. Målet är att appen skall släppas både för iOS och Android, men jag började bygga den för Android för att jag tänkte att det skulle kunna bli ett KMM-projekt (Kotlin Multiplatform Mobile). Med den tid som gavs och de kunskaper jag besatt, så hann vi inte med mer än att bygga en Android-version. Appen använder sig av ett GraphQL-API för kommunikationen med servern med hjälp av Apollos plugin. Svårt att komma igång, men mycket smidigt när jag väl kom underfund med det. Eftersom appen inte är släppt, vill jag inte dela några gränssnittsbilder publikt. Är du intresserad av projektet, så får du kontakta Odd Hill för att få en visning.
 
 
 
