@@ -17,3 +17,22 @@ Det är kanske lite krångligt – men var samtidigt kul och utmanande att bygga
 
 ![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h)
 
+
+
+---
+
+# Multiplicera
+**App för att träna multiplikation**
+
+I Androidkursen valde jag att bygga för både iOS och Android. IOS appen är färdig för distribution, men inte publicerad. Appen Multiplicera finns på Google Play Store.
+
+**Idén** med appen är att du skall kunna bestämma tiden du övar multiplikation och sätta en påminnelse. I appen kan du välja olika svårighetsgrader och du får förutom resultatet en lista på de tal du räknade fel på för att få en nudge i rätt riktning efteråt.
+
+Spelet konstruerades för min elvaåring som behövde öva på multiplikationstabellen!
+
+**"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share).
+
+![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)
+
+![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h)
+
