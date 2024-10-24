@@ -11,7 +11,7 @@ I iOS-kursen valde jag att jobba med karttjänster och Firebase-databas. Projekt
 
 Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt och det var samtidigt kul och utmanande att bygga!
 
-**"Postcard - almost analogue"** är tillgänglig i [App Store](https://link-till-appstore.com).
+**"Postcard - almost analogue"** är tillgänglig i [App Store](https://apps.apple.com/se/app/postcard-almost-analogue/id6476630095?l=en-GB).
 
 
 |   |   |
