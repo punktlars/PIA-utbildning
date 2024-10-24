@@ -9,7 +9,7 @@ I iOS-kursen valde jag att jobba med karttjänster och Firebase-databas. Projekt
 
 **Idén** är att du ska kunna skicka vykort med hjälp av din telefon var du än är. Du kan ladda upp en bild, skriva ett meddelande och lägga till namn och adress på den du vill skicka till. Den som får vykortet måste själv kolla sin brevlåda (ingen notifikation) och vara vid adressen för att ta emot kortet.
 
-Det är kanske lite krångligt – men var samtidigt kul och utmanande att bygga, och det fungerar!
+Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt och det var samtidigt kul och utmanande att bygga!
 
 **"Postcard - almost analogue"** är tillgänglig i [App Store](https://link-till-appstore.com).
 
@@ -32,7 +32,9 @@ Spelet konstruerades för min elvaåring som behövde öva på multiplikationsta
 
 **"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share).
 
-![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)
+![Startvy](https://drive.google.com/uc?export=view&id=1rQ_6Cq61jRMiX_dE-dRHB4zvGjoQbtus)
 
-![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h)
+![Träningsvy](https://drive.google.com/uc?export=view&id=1DPuYi1IRH2UaN2Z-C4wK10GPm4fNzAy-)
+
+![Resultatvy](https://drive.google.com/uc?export=view&id=1yuUlu-WcNQWBAZOpRpVyZ_CtLvVE2N0A)
 
