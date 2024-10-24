@@ -14,7 +14,7 @@ Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt
 **"Postcard - almost analogue"** är tillgänglig i [App Store](https://link-till-appstore.com).
 
 
-|   |    |
+|   |   |
 | :----------------: | :----------: |
 |![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)|![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h) |
 
