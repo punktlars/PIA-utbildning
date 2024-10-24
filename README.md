@@ -13,13 +13,11 @@ Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt
 
 **"Postcard - almost analogue"** är tillgänglig i [App Store](https://link-till-appstore.com).
 
-![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)
 
-![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h)
+| Bildvy         | Meddelandevy      |
+| :----------------: | :----------: |
+|![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)|![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h) |
 
-
-
----
 
 # Multiplicera
 **App för att träna multiplikation**
@@ -32,7 +30,7 @@ Spelet konstruerades för min elvaåring som behövde öva på multiplikationsta
 
 **"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share).
 
-| Startvy        | Träningsvy           | Resultatvy  |
+| Startvy         | Träningsvy      | Resultatvy      |
 | :-------------: | :-------------: | :-------------: |
 | ![Startvy](https://drive.google.com/uc?export=view&id=1rQ_6Cq61jRMiX_dE-dRHB4zvGjoQbtus) | ![Träningsvy](https://drive.google.com/uc?export=view&id=1DPuYi1IRH2UaN2Z-C4wK10GPm4fNzAy-) | ![Resultatvy](https://drive.google.com/uc?export=view&id=1yuUlu-WcNQWBAZOpRpVyZ_CtLvVE2N0A) |
 
