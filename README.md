@@ -36,7 +36,7 @@ Spelet konstruerades för min elvaåring som behövde öva på multiplikationsta
 
 
 # Sparkz
-**App för gym och badanläggningar**
+**Bokningsapp för gym och badanläggningar**
 
 Under min LIA-period fick jag möjlighet att arbeta på ett skarpt projekt under min tid på Odd Hill.
 
