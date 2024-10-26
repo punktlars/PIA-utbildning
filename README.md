@@ -22,9 +22,9 @@ Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt
 # Multiplicera
 **App för att träna multiplikation**
 
-I Androidkursen valde jag att bygga för både iOS och Android. IOS appen är färdig för distribution, men inte publicerad. Appen Multiplicera finns på Google Play Store.
+I Androidkursen valde jag att bygga för både iOS och Android. Appen är publicerad på respektive plattform.
 
-**Idén** med appen är att du skall kunna bestämma tiden du övar multiplikation och sätta en påminnelse. I appen kan du välja olika svårighetsgrader och du får förutom resultatet en lista på de tal du räknade fel på för att få en nudge i rätt riktning efteråt.
+**Idén** med appen är att du skall kunna bestämma tiden du övar multiplikation och sätta en påminnelse. I appen kan du välja olika svårighetsgrader och du får förutom resultatet en lista på de tal du räknade fel på för att få en nudge i rätt riktning efteråt. Utmaningen här var att få allt att funka likadant på bägge plattformar. Android-appen brister lite i påminnelsefunktione, men skall uppdateras i kommande versioner.
 
 Spelet konstruerades för min elvaåring som behövde öva på multiplikationstabellen!
 
