@@ -7,9 +7,9 @@ Projektpresentation av appar jag byggt under kursen "Programmerare iPhone och An
 
 I iOS-kursen valde jag att jobba med karttjänster och Firebase-databas. Projektet blev kanske mer konstnärligt än riktigt fokuserat på användbarhet, men idén är charmig och lekfull!
 
-**Idén** är att du ska kunna skicka vykort med hjälp av din telefon var du än är. Du kan ladda upp en bild, skriva ett meddelande och lägga till namn och adress på den du vill skicka till. Den som får vykortet måste själv kolla sin brevlåda (ingen notifikation) och vara vid adressen för att ta emot kortet.
+**Idén** är att du ska kunna skicka vykort med hjälp av din telefon var du än är. Du laddar upp en bild, skriver ett meddelande och lägger till namn och adress (precis som på ett fysiskt vykort) på den du vill skicka till. Den som får vykortet måste själv kolla sin brevlåda (ingen notifikation) och vara vid adressen för att ta emot kortet.
 
-Det är kanske lite krångligt, men jag ser det mer som ett konsnärligt projekt och det var samtidigt kul och utmanande att bygga!
+Det är kanske kan uppfattas som lite krångligt, men jag ser det mer som ett konsnärligt projekt och det var samtidigt kul och utmanande att bygga!
 
 **"Postcard - almost analogue"** är tillgänglig i [App Store](https://apps.apple.com/se/app/postcard-almost-analogue/id6476630095?l=en-GB).
 
