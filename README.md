@@ -28,7 +28,7 @@ I Androidkursen valde jag att bygga för både iOS och Android. IOS appen är f�
 
 Spelet konstruerades för min elvaåring som behövde öva på multiplikationstabellen!
 
-**"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share).
+**"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share) och på [App Store](https://apps.apple.com/se/app/multiplicera/id6737407280).
 
 |          |       |       |
 | :-------------: | :-------------: | :-------------: |
