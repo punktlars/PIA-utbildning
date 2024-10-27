@@ -7,7 +7,7 @@ Projektpresentation av appar jag byggt under kursen "Programmerare iPhone och An
 
 I iOS-kursen valde jag att jobba med karttjänster och Firebase-databas. Projektet blev kanske mer konstnärligt än riktigt fokuserat på användbarhet, men idén är charmig och lekfull!
 
-**Idén** är att du ska kunna skicka vykort med hjälp av din telefon var du än är. Du laddar upp en bild, skriver ett meddelande och lägger till namn och adress (precis som på ett fysiskt vykort) på den du vill skicka till. Den som får vykortet måste själv kolla sin brevlåda (ingen notifikation) och vara vid adressen för att ta emot kortet.
+**Idén** är att du ska kunna skicka vykort med hjälp av din telefon var du än är. Du laddar upp en bild, skriver ett meddelande och lägger till namn och adress (precis som på ett fysiskt vykort) på den du vill skicka till. Den som får vykortet måste själv kolla sin brevlåda (ingen notifikation) och vara vid adressen för att ta emot kortet. Vi talade till och med om att vykorten endast skulle kunna skickas från fysiska brevlådor, det finns någon typ av api för det, men det täcker ju inte in varenda brevlåda i dagens globaliserade värld, så det fick bli utan.
 
 Det är kanske kan uppfattas som lite krångligt, men jag ser det mer som ett konsnärligt projekt och det var samtidigt kul och utmanande att bygga!
 
