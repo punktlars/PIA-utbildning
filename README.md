@@ -19,7 +19,7 @@ Det är kanske kan uppfattas som lite krångligt, men jag ser det mer som ett ko
 |![Vykorts-app bildvy](https://drive.google.com/uc?export=view&id=1TRq_Fa3jNEFK3h_uwRfO5h14dXyLJdhm)|![Vykorts-app meddelandevy](https://drive.google.com/uc?export=view&id=1oM3N4DVvghhC7e-zWR8MjPMy4j4xOd9h) |
 
 
-# Multiplicera
+# Multiply / Multiplicera
 **App för att träna multiplikation**
 
 I Androidkursen valde jag att bygga för både iOS och Android. Appen är publicerad på respektive plattform.
@@ -28,7 +28,7 @@ I Androidkursen valde jag att bygga för både iOS och Android. Appen är public
 
 Spelet konstruerades för min elvaåring som behövde öva på multiplikationstabellen!
 
-**"Multiplicera"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share) och på [App Store](https://apps.apple.com/se/app/multiplicera/id6737407280).
+**"Multiply"** är tillgänglig i [Google Play](https://play.google.com/store/apps/details?id=se.punktlars.multiplicera&pcampaignid=web_share) och som **"Multiplicera"** på [App Store](https://apps.apple.com/se/app/multiplicera/id6737407280).
 
 |          |       |       |
 | :-------------: | :-------------: | :-------------: |
